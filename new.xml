@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 	<Information>
-				  <FirstName>Regina</FirstName>
-				  <Surname>Nadirovna</Surname>
-				  <LastName>Suvorova</LastName>
-				  <Age>31</Age>
-				  <Animal>dog</Animal>
+				  <FirstName>Regina</FirstName>,
+				  <Surname>Nadirovna</Surname>,
+				  <LastName>Suvorova</LastName>,
+				  <Age>31</Age>,
+				  <Animal>dog</Animal>,
 				  <Future-salary>100</Future-salary>
 			  </Information>
