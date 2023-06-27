@@ -1,1 +1,9 @@
-
+{
+<ID>""</ID>,
+<Severety>""</Severety>,
+<Environment>""</Environment>,
+<Title>""</Title>,
+<Steps>""</Steps>,
+<Expected results>""</Expected results>,
+<Actual results>""</Actual results>
+}
